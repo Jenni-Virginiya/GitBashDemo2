@@ -1,6 +1,6 @@
 public class Demo{
 
-	public void setText(){
+	public void m1(){
 	
 	}
 }
